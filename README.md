@@ -115,12 +115,13 @@ specifically designed for me
 <details>
 <summary>Automation & Agents</summary>
 
+I'm conceptually aware of some, still very silly stupid unaware of others. Personal system maturation, before moving into this with meaningful intent ~ high level outcome and things I enjoy.
 * Personal workflow automation
 * Research pipeline agents
 * Decision support systems
 * Data collection and processing automation
-
-Some are private by design; others become public when stable.
+  
+>> Note:***Principle in sharing these***_Private by design; appropriate public intended so shared when stable with all inputs/docs/audits made available. I expect to be meaningfully engaged here Q2_2026. what gun to my head haha
 
 </details>
 
@@ -212,10 +213,12 @@ Some are private by design; others become public when stable.
 <details>
 <summary>Expand</summary>
 
+**Many things; I'm a curious always wanna learn new and pass on:**
 * Options trading structure analysis
 * Greeks-aware positioning and scaling
 * Decision systems and pattern recognition
 * Research automation workflows
+* Expected Updated shared library transferable skills in progress _ probably hosted dashboard workflow categorised on Streamlit/Vercel if not also in the form of a game you're learning fun. 
 
 </details>
 

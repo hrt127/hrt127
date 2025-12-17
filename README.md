@@ -1,6 +1,6 @@
-# snowzies / [hrt127](https://github.com/hrt127)
+ # snowzies / [hrt127](https://github.com/hrt127)
 
-Discord:@kinda_balanced | X: [snowziesk](https://x.com/snowziesk) | Farcaster: [Snowzies](https://farcaster.xyz/~/code/DKV1AN) | 
+Discord:@kinda_balanced | X: [snowziesk](https://x.com/snowziesk) | Farcaster: [Snowzies](https://farcaster.xyz/~/code/DKV1AN) | 花と雪  静けさの中で  夢が咲く
 
 
 ---

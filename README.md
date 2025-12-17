@@ -286,8 +286,8 @@ A public index of active systems, a memory anchor, a way to re-enter context. No
 <details>
 <summary><strong>Trading & Options</strong></summary>
 
-* **Snowziesk – Kyan Stage 2 Comp duration (Options Comp): Learned / Built**
-  Short-cycle performance, learning extraction, applied changes
+* **Snowziesk – Kyan Stage 2 Comp duration (Options Comp): Learned / Built** https://docs.google.com/document/d/1qkATcKlzIyznIzAGUB0b0_a8cqA92adgSPC3Ji1Hl6k/edit?usp=sharing
+ *  Short-cycle performance, learning extraction, applied changes
 
 * **Kyan – Options History: Reviewed Trading Structures & Outcomes**
   Post-trade structural analysis (entries, sizing, exits, invalidations)
@@ -305,9 +305,9 @@ A public index of active systems, a memory anchor, a way to re-enter context. No
 <details>
 <summary><strong>Build Notes</strong></summary>
 
-* 2024-12-kyan-dashboard.md — build notes & lessons
-* 2024-12-options-comp.md — what worked / what didn't
-* 2024-12-options-prep.md — prep framework
+* 2025-12-kyan-dashboard.md — build notes & lessons
+* 2025-12-options-comp.md — what worked / what didn't
+* 2025-12-options-prep.md — prep framework
 
 </details>
 

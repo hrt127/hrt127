@@ -4,6 +4,21 @@ Discord:@kinda_balanced | X: @snowziesk | Farcaster: Snowzies | Zora:
 
 ---
 
+## What I Ship
+
+**[Elfa Tools](https://github.com/hrt127/elfa-tools)** — Greeks-aware options sizing & execution automation for crypto derivatives. Built for the Kyan competition; now shipping real-time Greeks and positioning logic.
+
+**[Kyan Dashboard](https://github.com/hrt127/kyan-dashboard)** — Trading structure review surface. Logs decisions → outcomes → structural errors, reducing hindsight bias in trade reviews. ([Live](https://kyan-dashboard-7hybvva7xikwuhwdqz72jj.streamlit.app/))
+
+**[Nobody Cares](https://github.com/hrt127/nobody-cares)** — Personal improvement system. Quality input logging + pattern detection over time. Leads to better decisions, not feelings databases.
+
+**[Farcaster Digest](https://github.com/hrt127/farcaster-digest)** — Turns feeds into signals; early-stage extraction of alpha from social sentiment.
+
+**[sehr-gut](https://github.com/hrt127/sehr-gut)** — Experiments in signal generation and onchain data parsing.
+
+---
+
+
 ## Interested in Doing Things With
 
 Builders, researchers, traders, artists, anyone working on interesting problems.

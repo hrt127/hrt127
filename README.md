@@ -53,12 +53,8 @@ Designed for quality input logging, patterns over time, not a feelings database.
 - Currency / bankroll support regardless of currency and no need to convert yourself, basically an entire sharp bettor (risk connisseur value edgy mfer) suite built into it.
 - Increasing difficulty periodic reviews posed to oneself. This is something to grow with you over time, baked in goodness from my professional years of doing things. 
 
-  **Thoughts:**
-- It's got me critical self-evaluated I don't do stuff like this, I always stop, help baked into it to get me doing this especially when I'm not going to want to. No-one can design better tests c'mon bro you got this, steer me to success the right way - I know how I work. I know how a lot of people work and what moves us, what we need to be uncomfortable good and wanna stay there productive good; it's only me that can take responsibility in teaching myself heyy horsey water drink. 
-- It’s unusual and takes some practise getting used to it, but I believe that better input ingestion is worth it. 
-- It's awesome to see all these wonderful end product things people have(ai sometimes), but it's not that much substance to just try reproduce. I don't have the skills necessarily, nor does it/me have me and all I take in structured granular available for use anyway.
-- It's not easy either to get something that works bringing it all together, I've tried so many times. I'm taking the long way It's fun anyway to learn stuff so wtf bump my head think navigate log design iterate learn go and see where we can push boundaries bump head again specifically the way it works. 
-specifically designed for me
+  **Thoughts
+  hoomans cunty
 
 **Phased architecture:**
 1. Daily entry foundation
@@ -69,18 +65,7 @@ specifically designed for me
 6. Improvement tracking & templates
 7. Output generation suite
 8. Pattern recognition & insights
-
-
-***Personal Reflection:***  **It's called nobody-cares for a reason.** It's freedom. It's me stripped bare self review cycled accountable for dilligent context me; it's a lot of things...which I only arrived at quite late, time and space I'm wooza doing things the right way:)
-
-
-**Looking ahead:** ***It's not just dreaming, all of it in some stage of it's alive and with us in the room already"***
-- In my output hub to people - In time these efforts will bear yummy fruit in cool touch real ways; Interactive output generation to taste, Loom video self teaching/showing how this *skill, reports, insights and so much more. 
-- Tooling developing composable modular tools that work together with the express aim don't bother me - only real alpha gets pushed to you context rich allow you to make informed decisions whilst still quality of life.
-- I believe human and AI/Agent work together best in tandem - all my things will be centred around that principle. 
-- Ultimately, free myself up to spend time in my defi-research space from which I want to meaningfully assist and enable an ever growing community defi crypto risk calculated loving degens. 
-
-
+   
 **Repo:** [https://github.com/hrt127/nobody-cares](https://github.com/hrt127/nobody-cares)
 
 </details>
@@ -117,13 +102,12 @@ specifically designed for me
 <details>
 <summary>Automation & Agents</summary>
 
-I'm conceptually aware of some, still very silly stupid unaware of others. Personal system maturation, before moving into this with meaningful intent ~ high level outcome and things I enjoy.
 * Personal workflow automation
 * Research pipeline agents
 * Decision support systems
 * Data collection and processing automation
   
->> Note:***Principle in sharing these***_Private by design; appropriate public intended so shared when stable with all inputs/docs/audits made available. I expect to be meaningfully engaged here Q2_2026. what gun to my head haha
+>> Note:***Principle in sharing these***_Private by design; appropriate public intended so shared when stable with all inputs/docs/audits made available. I expect to be meaningfully engaged here Q2_2026. what gun to my head haha. never for cunts. 
 
 </details>
 

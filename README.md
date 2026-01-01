@@ -20,7 +20,7 @@ Builders, researchers, traders, artists, anyone working on interesting problems.
 <details>
 <summary><strong>Kyan Dashboard</strong> — trading structure review</summary>
 
-Built for Kyan Stage 2 Options competition. Decision logging and trading structure review surface.
+Built for Kyan Stage 2 Options competition. Decision logging and trading structure review surface. Finished 48th place overall and 16th in level of complexity exhibited — really enjoyed it.
 
 **App:** <https://kyan-dashboard-7hybvva7xikwuhwdqz72jj.streamlit.app/>
 
@@ -185,9 +185,14 @@ Designed for quality input logging, patterns over time, not a feelings database.
 
 ## Recent Activity
 
+**January 2026**
+
+* **Build** — Active development: ops-home (TypeScript), smart-money-dashboard (Python), quantbuild, ToDoazd
+* **Continuation** — Maintaining and updating previous competition work and tools
+
 **December 2025**
 
-* **Trading** — Kyan Stage 2 Options competition wrapped; personal book: ~$250k → ~$305k notional
+* **Trading** — Kyan Stage 2 Options competition wrapped; personal book: ~$250k → ~$305knotional. Finished 48th place overall, 16th in level of complexity exhibited.
 * **Build** — Active development: Elfa Tools (17 commits), Kyan Dashboard (12), Nobody Cares (10), sehr-gut (9), Farcaster Digest (7)
 * **Research** — Trading desk API automation research; opened first issue in defi-research-space
 * **Learning** — Applied Greeks-aware positioning and scaling; execution beats ideas; habits leak into PnL

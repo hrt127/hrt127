@@ -154,7 +154,7 @@ Designed for quality input logging, patterns over time, not a feelings database.
 <details>
 <summary><strong>lighter (fork)</strong></summary>
 
-* Forked to explore and understand SDK behavior
+* Forked to explore and understand SDK behavior; built my 1st personal bot (trading on Lighter via Oraichain quant terminal; attempting own build over time)
 
 **Repo:** [https://github.com/hrt127/lighter-python](https://github.com/hrt127/lighter-python)
 
@@ -189,10 +189,10 @@ Designed for quality input logging, patterns over time, not a feelings database.
 
 * **Build** — Active development: ops-home (TypeScript), smart-money-dashboard (Python), quantbuild, ToDoazd
 * **Continuation** — Maintaining and updating previous competition work and tools
-* * **Trading Bots** — Started bot trading development; integrating strategies with Elfa Tools for automated trading systems
+* **Trading Bots** — Started bot trading development; integrating strategies with Elfa Tools for automated trading systems
 * **Farcaster Templates** — Built comprehensive Farcaster prompt templates for teams/beginners/creatives/onboarding with full contract suite and wallet architecture (integrating into ops-home)
 * **Automation** — Exploring Neynar/Zapper APIs for daily automated input workflows; implementing GitHub Actions for personal automation
-* **Research** — Working on full-spec research paper modeling BTC factors for 2026 — simulating big factors together (not in isolation). Prototyping as doomsday Farcaster miniapp game with social commentary on trader behavior (streaks, badges, etc.)
+* **Research** — Working on full-spec research paper modeling BTC factors for 2026 — simulating big factors together (not in isolation). Prototyping as doomsday Farcaster miniapp game with social commentary on trader behavior (streaks, badges, etc ~ fucking neymar (:
 
 **December 2025**
 
